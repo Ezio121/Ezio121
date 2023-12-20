@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ezio121
-- 👀 I’m interested in lua coding
-- 🌱 I’m currently learning Java and Css
+- 👀 I’m pretty good at Lua,Java and CSS
+- 🌱 I’m currently learning ML and DL
 - 💞️ I’m looking to collaborate on Fivem related stuff
 - 📫 How to reach me 
  Discord :badassfalcon
